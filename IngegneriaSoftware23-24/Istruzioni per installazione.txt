@@ -1,0 +1,32 @@
+Nella cartella \IngegneriaSoftware23-24\basic\views\site\runnable troverai 2 files 
+
+-bravo.java riga 23
+-ok.c       riga  7 
+
+Nella cartella \IngegneriaSoftware23-24\basic\views\site troverai il file 
+
+-index.php  riga  7
+
+
+PER BRAVO.JAVA
+Cambiare il percorso  C:\\xampp\\htdocs\\IngegneriaSoftware23-24\\basic\\views\\site in Percorso in cui è presente la cartella del progetto\\IngegneriaSoftware23-24\\basic\\views\\site 
+
+
+
+PER OK.C
+Cambiare il percorso  C:\\xampp\\htdocs\\IngegneriaSoftware23-24\\basic\\views\\site\\runnable\\bravo.java in Percorso in cui è presente la cartella del progetto\\IngegneriaSoftware23-24\\basic\\views\\site\\runnable\\bravo.java 
+
+
+PER INDEX.PHP
+
+Cambiare il percorso  C:\xampp\htdocs\IngegneriaSoftware23-24\basic\views\site\runnable\algoritmo in Percorso in cui è presente la cartella del progetto\IngegneriaSoftware23-24\basic\views\site\runnable\algoritmo
+
+nel caso di ok.c ricompilare nella cartella runnable
+ggc ok.c -o algoritmo
+
+
+Assicurarsi che i file siano nella cartella site e per gli eseguibili in runnable
+
+
+In caso di errori o malfunzionamenti , contattatemi 
+m.palazzo36@studenti.uniba.it
